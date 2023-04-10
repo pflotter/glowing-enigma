@@ -1,2 +1,0 @@
-#pavel
-print('hello')
